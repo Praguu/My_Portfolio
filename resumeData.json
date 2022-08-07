@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name":"Pragya Sharma",
+    "description":"I am a web developer and  Knack of building application with front and back en operations",
+    "image":"ME.jpg",
+    "bio":"Seeking an entry-level position to begin my career in an environment of growth and excellence to meet personal and organizational goals",
+    "contactmessage":"Feel Free to email with relevent information",
+    "email": "pragyash2001@gmail.com",
+    "github":"https://github.com/pragya-sharma",
+  
+    "address":{
+      "street":"Gautam Puri",
+      "city":"Ujhani",
+      "state":"Uttar Pradesh",
+      "zip": "243639"
+    },
+    "website": "https://github.com/pragya-sharma",
+    "resumedownload":"pragya sharma resume.pdf",
+    "social":[
+      
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/pragya-sharma-5ab12a18b/",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/pragya-sharma",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here I am showing skills, which i have done with projects.",
+    "education":[
+      {
+        "school":"GLA University, Mathura",
+        "degree":"Bachelor Of Computer Science And Engineering",
+        "graduated":"May 2022",
+        "description":"My skills are Java, JavaScript,Reactjs"
+      },
+      {
+        "school":"S.K.S.K.A.S.V.M. School ",
+        "degree":"Intermediate Schooling",
+        "graduated":"March 2018",
+        "description":"I have gained knowledge from schooling and useful skills I have acquired "
+      }
+    ],
+    "work":[
+      {
+        "company":"ITS FOR YOU",
+        "title":"Software Develoer Intern",
+        "years":"March 2021 ",
+        "description":"Added five feature in woring project and got experience to work with frontend as well as backend."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      
+     
+      {
+        "name":"Python",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Pizza Store Application",
+        "category":"React Application",
+        "image":"pizza-img.jpeg",
+        "url":"https://praguu.github.io/pizzaApplication/"
+      },
+      {
+        "title":"Vision Fixel Application",
+        "category":"StandAlone Python Application",
+        "image":"2.jpeg",
+        "url":"https://github.com/Er-Rakesh-Yadav/Vision-Fixel"
+      },
+      {
+        "title":"Tour Traveling Application",
+        "category":"Html,CSS,JavaScript,Bootstrap",
+        "image":"Tour.png",
+        "url":"https://pragya-sharma.github.io/tourtravels/"
+      },
+      {
+        "title":"Image Watermark Application",
+        "category":" Python Application ",
+        "image": "03.jpg",
+        "url":"https://github.com/pragya-sharma/waterMarking"
+      } 
+     
+      
+    ]
+  }
+}
